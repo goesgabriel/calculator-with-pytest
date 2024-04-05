@@ -41,4 +41,4 @@ To run the tests, navigate to the project directory and run `pytest`.
 
 ## Authors
 
-* **Gabriel Lima Becker Goes** - *Initial work* - [Gabriel](https://github.com/your_username)
+* **Gabriel Lima Becker Goes** - *calculator-with-pytest* - [Gabriel](https://github.com/goesgabriel)
